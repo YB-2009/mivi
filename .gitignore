@@ -1,7 +1,10 @@
-#ignore below files 
-
+# ignore below files
 *.php
 *.class
-*f1 
-*bile
+*obj
+*pnp
 !index.php
+[abc].php
+*file
+*ramana
+
