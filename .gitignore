@@ -1,0 +1,7 @@
+#ignore below files 
+
+*.php
+*.class
+*f1 
+*bile
+!index.php
