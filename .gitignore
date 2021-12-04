@@ -1,7 +1,3 @@
+#ignore below files 
 .php
 .class
-.obj
-.jpeg
-.png
-!index.php
-[abc].php
