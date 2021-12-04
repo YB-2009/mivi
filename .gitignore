@@ -1,12 +1,4 @@
-# ignore below files
 
-*.php
-*.class
-*.obj
-*.pnp
-!index.php
-[abc].php
 file
-ramana
-
-
+bile
+ramana/
